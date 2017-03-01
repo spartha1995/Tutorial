@@ -1,0 +1,5 @@
+C:\Users\partha\Desktop\C# Tutorial\Lamdba\Lamdba\bin\Debug\Lamdba.exe.config
+C:\Users\partha\Desktop\C# Tutorial\Lamdba\Lamdba\bin\Debug\Lamdba.exe
+C:\Users\partha\Desktop\C# Tutorial\Lamdba\Lamdba\bin\Debug\Lamdba.pdb
+C:\Users\partha\Desktop\C# Tutorial\Lamdba\Lamdba\obj\Debug\Lamdba.exe
+C:\Users\partha\Desktop\C# Tutorial\Lamdba\Lamdba\obj\Debug\Lamdba.pdb

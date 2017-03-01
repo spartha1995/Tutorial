@@ -1,0 +1,6 @@
+C:\Users\partha\Desktop\C# Tutorial\Balanced Delimeters\Balanced Delimeters\bin\Debug\Balanced Delimeters.exe.config
+C:\Users\partha\Desktop\C# Tutorial\Balanced Delimeters\Balanced Delimeters\bin\Debug\Balanced Delimeters.exe
+C:\Users\partha\Desktop\C# Tutorial\Balanced Delimeters\Balanced Delimeters\bin\Debug\Balanced Delimeters.pdb
+C:\Users\partha\Desktop\C# Tutorial\Balanced Delimeters\Balanced Delimeters\obj\Debug\Balanced Delimeters.csprojResolveAssemblyReference.cache
+C:\Users\partha\Desktop\C# Tutorial\Balanced Delimeters\Balanced Delimeters\obj\Debug\Balanced Delimeters.exe
+C:\Users\partha\Desktop\C# Tutorial\Balanced Delimeters\Balanced Delimeters\obj\Debug\Balanced Delimeters.pdb
