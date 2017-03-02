@@ -1,0 +1,32 @@
+http://formvalidation.io/examples/using-tooltip-to-show-message/
+http://swift.sandbox.bluemix.net/#/repl/58a4496455d6963e556ebe45
+
+
+
+
+
+http://demoqa.com/registration/
+http://executeautomation.com/demosite/index.html?UserName=&Password=&Login=Login
+
+
+
+https://docs.microsoft.com/en-us/aspnet/core/mvc/overview (all child tutorials)
+
+https://docs.microsoft.com/en-us/aspnet/core/data/ (all child tutorials)
+
+http://docs.autofac.org/en/latest/integration/aspnetcore.html#example
+
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection
+
+https://msdn.microsoft.com/en-us/magazine/mt703433.aspx
+
+http://www.codeguru.com/csharp/.net/net_asp/dependency-injection-with-asp.net-core-1.0.html
+
+
+http://www.javaworld.com/article/2071914/excellent-explanation-of-dependency-injection--inversion-of-control-.html
+
+
+
+
+
+
