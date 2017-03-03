@@ -1,5 +1,5 @@
---temp-output:D:\MVC\Relation\src\Relation\obj\Debug\netcoreapp1.0\
---out:D:\MVC\Relation\src\Relation\bin\Debug\netcoreapp1.0\Relation.dll
+--temp-output:C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\obj\Debug\netcoreapp1.0\
+--out:C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\bin\Debug\netcoreapp1.0\Relation.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -207,15 +207,15 @@
 --reference:C:\Users\partha\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\partha\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\partha\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"D:\MVC\Relation\src\Relation\obj\Debug\netcoreapp1.0\Relationdotnet-compile.deps.json",Relation.deps.json
-D:\MVC\Relation\src\Relation\Program.cs
-D:\MVC\Relation\src\Relation\Startup.cs
-D:\MVC\Relation\src\Relation\Context\Model.cs
-D:\MVC\Relation\src\Relation\Controllers\HomeController.cs
-D:\MVC\Relation\src\Relation\Controllers\StudentController.cs
-D:\MVC\Relation\src\Relation\Migrations\20170303110608_second.cs
-D:\MVC\Relation\src\Relation\Migrations\20170303110608_second.Designer.cs
-D:\MVC\Relation\src\Relation\Migrations\ModelModelSnapshot.cs
-D:\MVC\Relation\src\Relation\Models\Student.cs
-D:\MVC\Relation\src\Relation\Services\Istudent.cs
-D:\MVC\Relation\src\Relation\Services\Operations.cs
+--resource:"C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\obj\Debug\netcoreapp1.0\Relationdotnet-compile.deps.json",Relation.deps.json
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Program.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Startup.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Context\Model.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Controllers\HomeController.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Controllers\StudentController.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Migrations\20170303110608_second.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Migrations\20170303110608_second.Designer.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Migrations\ModelModelSnapshot.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Models\Student.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Services\Istudent.cs
+C:\Users\partha\Desktop\C# Tutorial\Relation\src\Relation\Services\Operations.cs
