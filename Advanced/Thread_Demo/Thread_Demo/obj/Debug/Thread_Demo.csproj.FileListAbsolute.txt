@@ -4,3 +4,6 @@ C:\Users\partha\Desktop\C# Tutorial\Thread_Demo\Thread_Demo\bin\Debug\Thread_Dem
 C:\Users\partha\Desktop\C# Tutorial\Thread_Demo\Thread_Demo\obj\Debug\Thread_Demo.csprojResolveAssemblyReference.cache
 C:\Users\partha\Desktop\C# Tutorial\Thread_Demo\Thread_Demo\obj\Debug\Thread_Demo.exe
 C:\Users\partha\Desktop\C# Tutorial\Thread_Demo\Thread_Demo\obj\Debug\Thread_Demo.pdb
+C:\Users\partha\Desktop\C# Tutorial\Advanced\Thread_Demo\Thread_Demo\bin\Debug\Thread_Demo.exe.config
+C:\Users\partha\Desktop\C# Tutorial\Advanced\Thread_Demo\Thread_Demo\obj\Debug\Thread_Demo.exe
+C:\Users\partha\Desktop\C# Tutorial\Advanced\Thread_Demo\Thread_Demo\obj\Debug\Thread_Demo.pdb

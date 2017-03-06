@@ -3,3 +3,9 @@ C:\Users\partha\Desktop\C# Tutorial\genaral Delegates\genaral Delegates\bin\Debu
 C:\Users\partha\Desktop\C# Tutorial\genaral Delegates\genaral Delegates\bin\Debug\genaral Delegates.pdb
 C:\Users\partha\Desktop\C# Tutorial\genaral Delegates\genaral Delegates\obj\Debug\genaral Delegates.exe
 C:\Users\partha\Desktop\C# Tutorial\genaral Delegates\genaral Delegates\obj\Debug\genaral Delegates.pdb
+C:\Users\partha\Desktop\C# Tutorial\Advanced\genaral Delegates\genaral Delegates\bin\Debug\genaral Delegates.exe.config
+C:\Users\partha\Desktop\C# Tutorial\Advanced\genaral Delegates\genaral Delegates\obj\Debug\genaral Delegates.exe
+C:\Users\partha\Desktop\C# Tutorial\Advanced\genaral Delegates\genaral Delegates\obj\Debug\genaral Delegates.pdb
+C:\Users\partha\Desktop\C# Tutorial\Advanced\genaral Delegates\genaral Delegates\bin\Debug\genaral Delegates.exe
+C:\Users\partha\Desktop\C# Tutorial\Advanced\genaral Delegates\genaral Delegates\bin\Debug\genaral Delegates.pdb
+C:\Users\partha\Desktop\C# Tutorial\Advanced\genaral Delegates\genaral Delegates\obj\Debug\genaral Delegates.csprojResolveAssemblyReference.cache

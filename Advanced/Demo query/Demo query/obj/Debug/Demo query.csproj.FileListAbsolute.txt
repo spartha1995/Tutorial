@@ -4,3 +4,6 @@ C:\Users\partha\Desktop\C# Tutorial\Demo query\Demo query\bin\Debug\Demo query.e
 C:\Users\partha\Desktop\C# Tutorial\Demo query\Demo query\bin\Debug\Demo query.pdb
 C:\Users\partha\Desktop\C# Tutorial\Demo query\Demo query\obj\Debug\Demo query.exe
 C:\Users\partha\Desktop\C# Tutorial\Demo query\Demo query\obj\Debug\Demo query.pdb
+C:\Users\partha\Desktop\C# Tutorial\Advanced\Demo query\Demo query\bin\Debug\Demo query.exe.config
+C:\Users\partha\Desktop\C# Tutorial\Advanced\Demo query\Demo query\obj\Debug\Demo query.exe
+C:\Users\partha\Desktop\C# Tutorial\Advanced\Demo query\Demo query\obj\Debug\Demo query.pdb

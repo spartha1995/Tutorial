@@ -4,10 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+/// <summary>
+/// Checks a String is Pangram or not
+/// </summary>
 namespace Pangram
 {
     class Program
     {
+        #region Main
         static void Main(string[] args)
         {
             Console.Write("Enter sentence for test : ");
@@ -15,6 +20,15 @@ namespace Pangram
             Console.WriteLine(function_return);
             Console.ReadKey();
         }
+        #endregion
+
+        #region Checks For Pangram
+        /// <summary>
+        /// input strings Converts into lower case 
+        /// check its ascii value 
+        /// </summary>
+        /// <param name="function_variable"></param>
+        /// <returns>bool value True or False</returns>
         static bool IsPangram(string function_variable)
         {
             function_variable = function_variable.ToLower();
@@ -38,5 +52,6 @@ namespace Pangram
 
             return total == 26;
         }
+        #endregion
     }
 }

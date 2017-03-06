@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+/// <summary>
+/// Claas A 
+/// Multiplayer of 2
+/// </summary>
 namespace Inherit
 {
     class A

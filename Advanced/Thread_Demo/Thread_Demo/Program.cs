@@ -11,25 +11,28 @@ namespace Thread_Demo
     {
         static void Main(string[] args)
         {
-
+            //Function Inialize
             #region
-            /* Function1();
-             Function2();
-             Console.ReadLine();*/
+            //Function1();
+            // Function2();
+            // Console.ReadLine();
             #endregion
 
+
+            //Threading
+            //foreground thread:keep runnning even though main thread exit
             #region
-            /* //Threading
-             //foreground thread:keep runnning even though main thread exit
-             Thread obj1 = new Thread(Function1);
-             Thread obj2 = new Thread(Function2);
-             obj1.Start();
-             obj2.Start();
-             Console.ReadLine();*/
+            //Thread obj1 = new Thread(Function1);
+            // Thread obj2 = new Thread(Function2);
+            // obj1.Start();
+            // obj2.Start();
+            // Console.ReadLine();
             #endregion
-            #region
+
+
             //A thread will create to run this fucntion 
             //Background Thread
+            #region
             Thread obj1 = new Thread(Function3);
             obj1.IsBackground = true;
             obj1.Start();
@@ -40,7 +43,7 @@ namespace Thread_Demo
 
         #region
         /// <summary>
-        /// Functions
+        /// Functions 1
         /// </summary>
         static void Function1()
         {
@@ -50,6 +53,12 @@ namespace Thread_Demo
                 Thread.Sleep(2000);
             }
         }
+        #endregion
+
+        /// <summary>
+        /// Function 2
+        /// </summary>
+        #region
         static void Function2()
         {
             for (int i = 0; i < 10; i++)
@@ -59,6 +68,12 @@ namespace Thread_Demo
             }
 
         }
+        #endregion
+
+        /// <summary>
+        /// Function 3
+        /// </summary>
+        #region
         static void Function3()
         {
             Console.WriteLine("Running");

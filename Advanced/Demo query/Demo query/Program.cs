@@ -8,12 +8,12 @@ namespace Demo_query
 {
     class Program
     {
-         #region
-         /// <summary>
-         /// simple Querey Expression
-         /// </summary>
-         /// <param name="args"></param>
-         static void Main(string[] args)
+        /// <summary>
+        /// simple Querey Expression
+        /// </summary>
+        /// <param name="args"></param>
+        #region
+        static void Main(string[] args)
          {
              IList<String> stringList = new List<string>()
              {
@@ -27,6 +27,7 @@ namespace Demo_query
              {
                  Console.WriteLine(str);
              }
+             //Finding strings from list which contains a
              var Result = from list in stringList
                           where list.Contains("a")
                           select list;
@@ -34,39 +35,40 @@ namespace Demo_query
                  Console.WriteLine(str);
              Console.ReadLine();
          }
-         #endregion
+        #endregion
 
 
-         /*#region
-         /// <summary>
-         /// Lambda Expression
-         /// </summary>
-         /// <param name="args"></param>
-         static void Main(string[] args)
-         {
-             int[] scores = { 90, 71, 82, 93, 75, 82 };
-             int hightScore_count = scores.Where(n => n > 80).Count();
-             Console.WriteLine("{0} Scores are greater than 80", hightScore_count);
-             Console.ReadLine();
-         }
-         #endregion */
 
-       /* #region
-        static void Main(string[] args)
-        {
-            // This query retrieves the total scores for First Year students, Second Years, and so on.
-            // The outer Sum method uses a lambda in order to specify which numbers to add together.
-            var categories =
-        from student in students
-        group student by student.Year into studentGroup
-        select new { GradeLevel = studentGroup.Key, TotalScore = studentGroup.Sum(s => s.ExamScores.Sum()) };
+        /// <summary>
+        /// Lambda Expression
+        /// </summary>
+        /// <param name="args"></param>
+        #region
+        //static void Main(string[] args)
+        //{
+        //    int[] scores = { 90, 71, 82, 93, 75, 82 };
+        //    int hightScore_count = scores.Where(n => n > 80).Count();
+        //    Console.WriteLine("{0} Scores are greater than 80", hightScore_count);
+        //    Console.ReadLine();
+        //}
+        #endregion
 
-            // Execute the query.   
-            foreach (var cat in categories)
-            {
-                Console.WriteLine("Key = {0} Sum = {1}", cat.GradeLevel, cat.TotalScore);
-            }
-}
-    #endregion*/
-}
+        // This query retrieves the total scores for First Year students, Second Years, and so on.
+        // The outer Sum method uses a lambda in order to specify which numbers to add together.
+        #region
+ //       static void Main(string[] args)
+ //       { 
+ //            var categories =
+ //        from student in students
+ //        group student by student.Year into studentGroup
+ //        select new { GradeLevel = studentGroup.Key, TotalScore = studentGroup.Sum(s => s.ExamScores.Sum()) };
+
+ //            // Execute the query.   
+ //            foreach (var cat in categories)
+ //            {
+ //                Console.WriteLine("Key = {0} Sum = {1}", cat.GradeLevel, cat.TotalScore);
+ //            }
+ //}
+     #endregion
+    }
 }

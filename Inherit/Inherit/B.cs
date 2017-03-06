@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+/// <summary>
+/// Claas B
+/// Inherit claas A
+/// Multiplayer of 3
+/// </summary>
 namespace Inherit
 {
     class B : A

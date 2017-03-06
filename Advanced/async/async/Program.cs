@@ -5,6 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 
+
+/// <summary>
+/// Simple Thread Example 
+/// The following program will wait until main execution stops
+/// after that it will execute child thread
+/// </summary>
 namespace async
 {
     class Program
