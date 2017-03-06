@@ -1,0 +1,12 @@
+// GET: api/Employees/sandipan
+        [HttpGet("search")]
+        public IActionResult SearchByNameOrAddress(string name)
+        {
+            if (!String.IsNullOrEmpty(name))
+            {
+               return Ok( _context.Employee.Where((s => s.Name.Contains(name))).ToList());
+                
+            }
+            else
+                return Ok(_context.Employee.ToList());
+        }
