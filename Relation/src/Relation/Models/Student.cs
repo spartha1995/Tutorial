@@ -7,6 +7,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Relation.Models
 {
+    /// <summary>
+    /// Modeel class
+    /// </summary>
     public class Student
     {
         [Key]

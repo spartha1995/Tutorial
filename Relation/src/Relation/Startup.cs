@@ -37,6 +37,7 @@ namespace Relation
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //Db connection
             services.AddDbContext<Model>(options =>
                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
@@ -44,6 +45,7 @@ namespace Relation
             services.AddApplicationInsightsTelemetry(Configuration);
 
             services.AddMvc();
+            //Dependency injection
             services.AddScoped<Istudent, Operations>();
         }
 
