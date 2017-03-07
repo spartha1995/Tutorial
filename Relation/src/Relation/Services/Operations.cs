@@ -25,6 +25,7 @@ namespace Relation.Services
         /// <returns></returns>
         #region
         public IEnumerable<Student> GetAll()
+
         {
             return _context.students.ToList();
         }

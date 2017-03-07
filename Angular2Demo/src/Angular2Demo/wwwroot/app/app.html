@@ -1,0 +1,16 @@
+﻿<input type="text" placeholder="Name" [(ngModel)]="employee.Name" class="form-control" required />
+<input type="text" placeholder="Address" [(ngModel)]="employee.Address" class="form-control" required />
+<button *ngIf="isShown" (click)="onClick()" >Create</button>&nbsp;&nbsp;&nbsp;
+<button *ngIf="!isShown" (click)="onUpdate()" >Update</button><br/> 
+<input placeholder="Search" [(ngModel)]="searchString" (keyup)="onFilter(searchString)">
+
+
+<table style="width:100%">
+    <tr *ngFor="let emp of employees">
+        <td>{{emp.Id}}</td>
+        <td>{{emp.Name}}</td>
+        <td>{{emp.Address}}</td>
+        <td><button  (click)="onDelete(emp)">Delete</button></td>
+        <td><button (click)="onEdit(emp)">Edit</button></td>
+    </tr>
+</table>

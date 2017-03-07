@@ -1,0 +1,15 @@
+appsetting.json
+"ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=studentDatabase;Trusted_Connection=True;MultipleActiveResultSets=true"
+
+
+//Db connection
+            services.AddDbContext<Model>(options =>
+               options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+
+Model
+public Model(DbContextOptions<Model> option) : base(option)
+        {
+
+        }
